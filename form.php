@@ -1,4 +1,4 @@
 <?php
 	$msg = 'GitHub';
-	echo 'Hello! '.$msg;
+	echo 'Hello '.$msg. ' world!';
 ?>
