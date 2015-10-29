@@ -1,3 +1,8 @@
-<?php
-	echo 'こんにちは';
-?>
+<!DOCTYPE html>
+<html>
+<body>
+<form>
+
+</form>
+</body>
+</html>
